@@ -1,6 +1,6 @@
 # Meals App
 
-A Flutter application in which users can get recipes of meals. The meals are divided by their categories. They can favorite any meal, search meals by using filters.
+A Flutter application in which users can get recipes of meals. The meals are divided by their categories. Users can favorite any meal and they can search the meals by using filters.
 ![Screenshot_1677692055](https://user-images.githubusercontent.com/89255970/222218631-6177dfa9-3403-4ca6-965b-04bd80a58b04.png)
 ![Screenshot_1677692048](https://user-images.githubusercontent.com/89255970/222217908-4ec8343c-897b-4e53-b242-86791ef0d5e8.png)
 ![Screenshot_1677692065](https://user-images.githubusercontent.com/89255970/222217937-ba76d59d-2026-4ebd-a434-a1aedddca283.png)
